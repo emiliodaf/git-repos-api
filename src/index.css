@@ -1,0 +1,26 @@
+*
+ {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  
+}
+
+
+html, #root, body {
+  min-height: 100%;
+  color: #fff;
+  font-family: Verdana, sans-serif;
+ 
+}
+
+body {
+  background-color: #010f1e;
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+}
+
+button {
+  cursor: pointer;
+}
